@@ -4,7 +4,7 @@ y
 const Profile = () => {
     return (
         <div>
-            <h1>Profile Page</h1>
+            <h1>My Profile</h1>
             <article>
                 <div>
                     <h2>Introduction</h2>
